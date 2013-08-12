@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Animals" pattern="file[PurePythonProject]:Animals//*" />
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Library" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="c7dbc1da-a1f4-4382-b70c-b225af0176c1">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://MyHost:8000/Library</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+    <libraries>
+      <library>
+        <url>jar://$PROJECT_DIR$/mysql-connector-java-5.1.18-bin.jar!/</url>
+      </library>
+      <library>
+        <url>file://$PROJECT_DIR$/mysql-connector-license.txt</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>

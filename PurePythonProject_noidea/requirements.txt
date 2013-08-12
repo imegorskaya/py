@@ -1,0 +1,4 @@
+celery
+MyProject1
+MyProject2
+MyProject3

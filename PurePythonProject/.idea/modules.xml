@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GAEapps/HW/.idea/HW.iml" filepath="$PROJECT_DIR$/../GAEapps/HW/.idea/HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PurePythonProject.iml" filepath="$PROJECT_DIR$/.idea/PurePythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UnitTestingSamples/.idea/UnitTestingSamples.iml" filepath="$PROJECT_DIR$/../UnitTestingSamples/.idea/UnitTestingSamples.iml" />
+    </modules>
+  </component>
+</project>
+

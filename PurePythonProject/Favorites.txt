@@ -1,0 +1,14 @@
+PurePythonProject
+interpreters
+	Python27 - nodjango (C:\Python27 - nodjango)
+PurePythonProject
+interpreters
+	Python27 - nodjango (C:\Python27 - nodjango)
+PurePythonProject
+interpreters
+	Python27 - nodjango (C:\Python27 - nodjango)
+	w9xpopen.exe (C:\Python27\w9xpopen.exe)
+PurePythonProject
+interpreters
+	Python27 - nodjango (C:\Python27 - nodjango)
+	w9xpopen.exe (C:\Python27\w9xpopen.exe)
